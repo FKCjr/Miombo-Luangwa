@@ -1,0 +1,7 @@
+Month/Year;"Air temp.  (avg)";"Air  temp.  (min)";Airtemp.(max);Precip.(total);"Wind speed  (vc avg)";"Wind  direction  (vc avg)";"Wind  speed (max)";"Wind Dir.(Max wind speed)";"Soil   Temp 1 (avg)";"Humidity  (avg) ";Barom.Press.(avg);"Solar Irradiance  (avg)";"Solar  Irradiance  (sum)"
+"Jan 2023";21;16.2;29.5;3.8;;;0;0;;92.2;871.88032345014;185.5;495.57
+"Feb 2023";22.2;15.4;31.6;55;;;0;0;;88.5;871.63714179382;228.4;552.39
+"Mar 2023";21.8;12.8;31.9;133.2;;;0;0;;86.2;871.85075630252;237.8;636.8
+"Apr 2023";20.2;8.3;31.9;2;;;0;0;;81.7;872.35295549374;229.3;593.63
+"May 2023";18.3;6.8;30.4;0;;;0;0;;72.9;872.92642016807;240.5;643.84
+"Jun 2023";18.2;4;30.6;0;;;0;0;;69.3;872.98409245411;204.8;271.17
